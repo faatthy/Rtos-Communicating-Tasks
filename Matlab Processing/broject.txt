@@ -1,0 +1,66 @@
+Timer period=1
+ Counter=4044
+ Sum Of Sent Messages Time for Sender1=99949
+ Sum Of Sent Messages Time for Sender2=99868
+ Sum Of Sent Messages Time for Sender3=99945
+ The total number of successfully sent messages =1009, the total number of blocked messages=2028
+ Blocked Messages for Sender 1= 686, Sent Messages Time for Sender 1= 327
+ Blocked Messages for Sender 2= 653, Sent Messages Time for Sender 2= 360
+ Blocked Messages for Sender 3=689, Sent Messages Time for Sender 3=322
+ 
+
+Timer period=2
+ Counter=7204
+ Sum Of Sent Messages Time for Sender1=199951
+ Sum Of Sent Messages Time for Sender2=199938
+ Sum Of Sent Messages Time for Sender3=199873
+ The total number of successfully sent messages =1009, the total number of blocked messages=1139
+ Blocked Messages for Sender 1= 385, Sent Messages Time for Sender 1= 332
+ Blocked Messages for Sender 2= 379, Sent Messages Time for Sender 2= 334
+ Blocked Messages for Sender 3=375, Sent Messages Time for Sender 3=342
+ 
+
+Timer period=3
+ Counter=9873
+ Sum Of Sent Messages Time for Sender1=299914
+ Sum Of Sent Messages Time for Sender2=299989
+ Sum Of Sent Messages Time for Sender3=300006
+ The total number of successfully sent messages =1009, the total number of blocked messages=648
+ Blocked Messages for Sender 1= 207, Sent Messages Time for Sender 1= 343
+ Blocked Messages for Sender 2= 242, Sent Messages Time for Sender 2= 311
+ Blocked Messages for Sender 3=199, Sent Messages Time for Sender 3=354
+ 
+
+Timer period=4
+ Counter=12240
+ Sum Of Sent Messages Time for Sender1=399929
+ Sum Of Sent Messages Time for Sender2=400065
+ Sum Of Sent Messages Time for Sender3=400060
+ The total number of successfully sent messages =1009, the total number of blocked messages=346
+ Blocked Messages for Sender 1= 112, Sent Messages Time for Sender 1= 344
+ Blocked Messages for Sender 2= 116, Sent Messages Time for Sender 2= 337
+ Blocked Messages for Sender 3=118, Sent Messages Time for Sender 3=327
+ 
+
+Timer period=5
+ Counter=14406
+ Sum Of Sent Messages Time for Sender1=500122
+ Sum Of Sent Messages Time for Sender2=500146
+ Sum Of Sent Messages Time for Sender3=499991
+ The total number of successfully sent messages =1009, the total number of blocked messages=145
+ Blocked Messages for Sender 1= 50, Sent Messages Time for Sender 1= 336
+ Blocked Messages for Sender 2= 50, Sent Messages Time for Sender 2= 334
+ Blocked Messages for Sender 3=45, Sent Messages Time for Sender 3=338
+ 
+
+Timer period=6
+ Counter=16419
+ Sum Of Sent Messages Time for Sender1=600934
+ Sum Of Sent Messages Time for Sender2=600853
+ Sum Of Sent Messages Time for Sender3=600798
+ The total number of successfully sent messages =1001, the total number of blocked messages=0
+ Blocked Messages for Sender 1= 0, Sent Messages Time for Sender 1= 334
+ Blocked Messages for Sender 2= 0, Sent Messages Time for Sender 2= 333
+ Blocked Messages for Sender 3=0, Sent Messages Time for Sender 3=333
+ 
+
