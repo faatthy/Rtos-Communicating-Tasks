@@ -36,4 +36,5 @@ function that performs the following:
 
 
 # System Flow     
+![tasks](https://github.com/faatthy/Rtos-Communicating-Tasks/assets/110846097/099fd8b0-0045-4779-9224-23049fb2664a)
 
