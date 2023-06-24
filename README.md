@@ -35,7 +35,11 @@ function that performs the following:
 6- In all iterations Treceiver is fixed at 100 msec.   
 
 
-# System Flow     
+# System Flow    
+![flow](https://github.com/faatthy/Rtos-Communicating-Tasks/assets/110846097/20178e2f-8662-48ba-b38b-59eae78b1250)
+
+
+# Tasks Communication     
 ![tasks](https://github.com/faatthy/Rtos-Communicating-Tasks/assets/110846097/099fd8b0-0045-4779-9224-23049fb2664a)   
 
 # Simulator  
